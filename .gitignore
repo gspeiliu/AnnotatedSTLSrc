@@ -1,0 +1,24 @@
+# Compiled Object files
+*slo
+*.o
+*.lo
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+*.d
+*.bc
+*.ll
+*.dor
